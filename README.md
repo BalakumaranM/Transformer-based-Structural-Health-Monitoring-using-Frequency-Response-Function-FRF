@@ -163,4 +163,4 @@ Each post dives deeper into the project’s motivation, the dataset, and step-by
 
 ---
 
-**Happy coding and research!** If you have any questions, open an issue or reach out via the contact info on the blog.
+If you have any questions, open an issue or reach out via the contact info on the blog.
