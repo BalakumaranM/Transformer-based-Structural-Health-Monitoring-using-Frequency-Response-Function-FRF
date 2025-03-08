@@ -1,6 +1,6 @@
 ---
 
-# Beam Damage Assessment Using FRF Data
+# Transformer based Structural Health Monitoring using Frequency Response Function (FRP) data
 
 This repository contains all the code and resources for a beam damage detection project that uses Frequency Response Function (FRF) data, FRAC-based features, and a hybrid CNN + Transformer model for classification. The dataset is sourced from [Zenodo (Record \#8081690)](https://zenodo.org/records/8081690).
 
