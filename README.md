@@ -139,10 +139,10 @@ Both are saved under `training_graph/`.
 
 To learn more about the background, methodology, and advanced analysis, see the following blog posts:
 
-- [**Blog Post 1: Project Introduction**](https://balakumaranm.github.io/posts/2024/09/blog-post-1/)  
-- [**Blog Post 2: Data Preprocessing & FRAC**](https://balakumaranm.github.io/posts/2024/09/blog-post-2/)  
-- [**Blog Post 3: CNN+Transformer Architecture**](https://balakumaranm.github.io/posts/2024/09/blog-post-3/)  
-- [**Blog Post 4: Final Results & Discussion**](https://balakumaranm.github.io/posts/2024/09/blog-post-4/)
+- [**Blog Post 1: Project Introduction**](https://balakumaranm.github.io/posts/2025/01/blog-post-1/)  
+- [**Blog Post 2: Data Preprocessing & FRAC**](https://balakumaranm.github.io/posts/2025/01/blog-post-2/)  
+- [**Blog Post 3: CNN+Transformer Architecture**](https://balakumaranm.github.io/posts/2025/01/blog-post-3/)  
+- [**Blog Post 4: Final Results & Discussion**](https://balakumaranm.github.io/posts/2025/01/blog-post-4/)
 
 Each post dives deeper into the project’s motivation, the dataset, and step-by-step code explanations.
 
